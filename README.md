@@ -4,7 +4,7 @@
 - 🌱 My interests are Machine Learning, Computer Vision, Deep Learning and Natural Language Processing.
 - 🤔 I’m looking for help with Intern Roles in the domains specified above.
 - 💬 Ask me about technology. Let's debate. :)
-- 📫 How to reach me: www.linkedin.com/in/semal-johari-a276a0233
+- 📫 How to reach me: https://semaljohari.github.io/portfolio-website/index.html
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Still trying to understand Github. :')
 --> Machine Learning Algorithms are easier for me than this. 🥲
