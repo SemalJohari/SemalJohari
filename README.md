@@ -11,4 +11,6 @@
 
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemalJohari)](https://github.com/SemalJohari/github-readme-stats)
+[![Semal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemalJohari)](https://github.com/SemalJohari/github-readme-stats)
+
+![Semal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemalJohari&show_icons=true)
