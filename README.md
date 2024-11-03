@@ -17,7 +17,7 @@
 ## 📊 GitHub Stats:
 [![Semal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemalJohari&show_icons=true&theme=dark)](https://github.com/SemalJohari/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SemalJohari&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&show_icons=true&theme=dark)](https://github.com/SemalJohari/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&layout=donut&theme=dark)](https://github.com/SemalJohari/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&layout=donut&theme=dark)](https://github.com/SemalJohari/github-readme-stats)
 
 
 ## 💻 Tech Stack:
