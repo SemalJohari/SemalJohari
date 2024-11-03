@@ -13,4 +13,4 @@
 
 [![Semal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemalJohari&show_icons=true)](https://github.com/SemalJohari/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&show_icons=true)](https://github.com/SemalJohari/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&layout=pie)](https://github.com/SemalJohari/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&show_icons=true)](https://github.com/SemalJohari/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&layout=donut)](https://github.com/SemalJohari/github-readme-stats)
