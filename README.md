@@ -11,6 +11,6 @@
 
   
 
-[![Semal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemalJohari&show_icons=true&theme=synthwave)](https://github.com/SemalJohari/github-readme-stats)
+[![Semal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemalJohari&show_icons=true&theme=radical)](https://github.com/SemalJohari/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&show_icons=true&theme=synthwave)](https://github.com/SemalJohari/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&layout=donut&theme=synthwave)](https://github.com/SemalJohari/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&show_icons=true&theme=radical)](https://github.com/SemalJohari/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&layout=donut&theme=radical)](https://github.com/SemalJohari/github-readme-stats)
