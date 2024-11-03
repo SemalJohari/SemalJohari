@@ -9,4 +9,6 @@
 - ⚡ Fun fact: Still trying to understand Github. :')
 --> Machine Learning Algorithms are easier for me than this. 🥲
 
+  
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemalJohari)](https://github.com/SemalJohari/github-readme-stats)
