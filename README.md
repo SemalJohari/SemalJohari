@@ -14,11 +14,16 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/semal_johari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/semal._.0710) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/semaljohari) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@semaljohari80) 
 
-  
-## 📊 GitHub Stats:
-[![Semal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemalJohari&show_icons=true&theme=dark)](https://github.com/SemalJohari/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SemalJohari&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&layout=donut&theme=dark)](https://github.com/SemalJohari/github-readme-stats)
+  ## 📊 GitHub Stats
+
+<div align="center">
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=SemalJohari&show_icons=true&theme=dark&hide_border=true" alt="Semal's GitHub Stats" />
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SemalJohari&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&layout=donut&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 
 ## 💻 Tech Stack:
