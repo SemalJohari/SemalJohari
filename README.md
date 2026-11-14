@@ -16,13 +16,19 @@
 
   ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
+
 <!-- GitHub Stats -->
-![GitHub Stats](https://vercel.app)
+<img src="https://github-stats-extended.vercel.app/api?username=SemalJohari&show_icons=true&theme=dark&hide_border=true" alt="Semal's GitHub Stats" />
+
 <!-- GitHub Streak -->
-![GitHub Streak](https://demolab.com)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SemalJohari&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+
 <!-- Top Languages -->
-![Top Languages](https://vercel.app)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&layout=donut&theme=dark&hide_border=true" alt="Top Languages" />
+
 </div>
 
 
