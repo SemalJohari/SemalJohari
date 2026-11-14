@@ -27,7 +27,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SemalJohari&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&layout=donut&theme=dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SemalJohari&layout=donut&theme=dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
