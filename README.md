@@ -18,11 +18,11 @@
 
 <div align="center">
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=SemalJohari&show_icons=true&theme=dark&hide_border=true" alt="Semal's GitHub Stats" />
+![GitHub Stats](https://vercel.app)
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SemalJohari&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+![GitHub Streak](https://demolab.com)
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemalJohari&layout=donut&theme=dark&hide_border=true" alt="Top Languages" />
+![Top Languages](https://vercel.app)
 </div>
 
 
